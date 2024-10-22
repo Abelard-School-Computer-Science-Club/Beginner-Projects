@@ -5,4 +5,4 @@ If you have already chosen an idea but are struggling to figure out how to make 
 If you know how to make your idea but don't know how to actually code it, feel free to look at the code.
 
 # Project Ideas
-- [Guess The Number]("Guess The Number/Description")
+- [Guess The Number](Guess%20The%20Number/Description.md)
